@@ -2,4 +2,4 @@
 ## Author: Ariel Guerrero
 
 ### Description: 
-Learning Reinforced Learning, Neural Networks, Deep Learning, and may more exciting topics.
+Learning Reinforced Learning, Neural Networks, Deep Learning, and many more exciting topics related to AI.
