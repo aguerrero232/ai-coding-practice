@@ -13,6 +13,8 @@ ___
 * learning about ***discrete and continuous environments*** that agents can act on
 randomly selecting appropriate actions to take in a given environment.
 
+* code example: ***single_agent.ipynb***
+
 ## Q-Learning Agent
 
 * learning about the ***concept of Q-Learning***, which is ***a form of reinforcement learning***
@@ -30,9 +32,13 @@ in a given environment.
 
 * reference: [Q-Learning algorithm](https://en.wikipedia.org/wiki/Q-learning)
 
+* code example: ***q_agent.ipynb***
+
 ## Q-Learning Agent with Neural Network
 
 * Using ***Q-Learning algorithm*** and a ***Sequential Model with two dense layers*** to
 dive deeper in learning about the concept of deep learning.
 
 &emsp;&emsp;![Model for Deeplearning](./model.png)
+
+* code example: ***q_agent_nn.ipynb***
