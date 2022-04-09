@@ -39,6 +39,6 @@ in a given environment.
 * Using ***Q-Learning algorithm*** and a ***Sequential Model with two dense layers*** to
 dive deeper in learning about the concept of deep learning.
 
-&emsp;&emsp;![Model for Deeplearning](./model.png)
+&emsp;&emsp;![Model for Deeplearning](./img/model.png)
 
 * code example: ***q_agent_nn.ipynb***
