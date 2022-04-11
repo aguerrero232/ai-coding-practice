@@ -1,4 +1,4 @@
-## Deep Q learning Agent With Nueral Network From Scratch
+## Deep Q learning Agent With Neural Network From Scratch
 
 ## Author: Ariel Guerrero
 
