@@ -45,4 +45,4 @@ dive deeper in learning about the concept of deep learning.
 
 ## Default Enviroment
  * Frozen Lake
- [](img/frozenlake.png)
+ [](img/frozen_lake_env.png)
