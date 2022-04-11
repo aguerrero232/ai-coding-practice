@@ -42,3 +42,7 @@ dive deeper in learning about the concept of deep learning.
 &emsp;&emsp;![Model for Deeplearning](./img/model.png)
 
 * code example: ***q_agent_nn.ipynb***
+
+## Default Enviroment
+ * Frozen Lake
+ [](img/frozenlake.png)
