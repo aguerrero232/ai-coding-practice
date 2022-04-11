@@ -44,6 +44,6 @@ dive deeper in learning about the concept of deep learning.
 * code example: ***q_agent_nn.ipynb***
 
 ## Default Enviroment
- * **Frozen Lake
+ * **Frozen Lake**
  
  ![](img/frozen_lake_env.png)
